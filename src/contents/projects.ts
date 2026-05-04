@@ -12,15 +12,26 @@ export const projects: Project[] = [
     demoLink: "https://omar37-maker.github.io/Weatherapp/",
     image: "/projects/Screenshot 2025-10-10 222919.png",
   },
+
   {
-    title: "Login System",
+    title: "omar-portfolio",
     description:
-      "A simple login and registration system that allows users to create an account or log in to an existing one.",
-    technologies: ["Html", "Bootstrap", "JavaScript"],
-    githubLink: "https://github.com/omar37-maker/Login-system",
-    demoLink: "https://omar37-maker.github.io/Login-system/",
-    image: "/projects/Screenshot 2025-10-11 165031.png",
+      "A personal portfolio website built with Next.js, showcasing projects, skills, and experience. It features a clean design, responsive layout, and smooth animations to create an engaging user experience.",
+    technologies: ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
+    githubLink: "https://github.com/omar37-maker/omar-portfolio",
+    demoLink: "https://omar-portfolio-xi-lilac.vercel.app/",
+    image: "/projects/Screenshot 2026-05-04 130811.png",
   },
+  {
+    title: "crm whispyr",
+    description:
+      "A CRM system built with Next.js and Firebase, designed to help businesses manage customer relationships effectively. It offers features like contact management, lead tracking, and sales pipeline visualization.",
+    technologies: ["Next.js", "Firebase", "MongoDB", "AI", "Typescript"],
+    githubLink: "https://github.com/omar37-maker/crm-project",
+    demoLink: "https://crm-project-g1c6.vercel.app/",
+    image: "/projects/Screenshot 2026-04-28 120717.png",
+  },
+
   {
     title: "Recipe ",
     description: "A recipe search application using the API by React.",
@@ -29,6 +40,7 @@ export const projects: Project[] = [
     demoLink: "https://omar37-maker.github.io/Recipe/",
     image: "/projects/Screenshot 2025-10-10 231324.png",
   },
+
   {
     title: "Book Mark",
     description:
@@ -57,12 +69,12 @@ export const projects: Project[] = [
     image: "/projects/Screenshot 2025-10-18 173711.png",
   },
   {
-    title: "crm whispyr",
+    title: "Login System",
     description:
-      "A CRM system built with Next.js and Firebase, designed to help businesses manage customer relationships effectively. It offers features like contact management, lead tracking, and sales pipeline visualization.",
-    technologies: ["Next.js", "Firebase", "MongoDB", "AI", "Typescript"],
-    githubLink: "https://github.com/omar37-maker/crm-project",
-    demoLink: "https://crm-project-g1c6.vercel.app/",
-    image: "/projects/Screenshot 2026-04-28 120717.png",
+      "A simple login and registration system that allows users to create an account or log in to an existing one.",
+    technologies: ["Html", "Bootstrap", "JavaScript"],
+    githubLink: "https://github.com/omar37-maker/Login-system",
+    demoLink: "https://omar37-maker.github.io/Login-system/",
+    image: "/projects/Screenshot 2025-10-11 165031.png",
   },
 ];
